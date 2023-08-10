@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+E	E.m	/^function err = E(theta,numberOfGaussians,parametersDimension,numberOfSamplesTraining ...$/;"	f
+fillHisto	fillHisto.m	/^function fillHisto(theta,numberOfGaussians,parametersDimension,h,numberOfSamples)$/;"	f
+getRandomFromGaussians	getRandomFromGaussians.m	/^function r = getRandomFromGaussians(weights,means,sigmas,numberOfGaussians,parametersDimension)$/;"	f
+getSamplesFromGaussians	getSamplesFromGaussians.m	/^function p = getSamplesFromGaussians(weights,means,sigmas,numberOfGaussians,parametersDimension,numberOfSamples)$/;"	f
+mcmcParamToRealParam	mcmcParamToRealParam.m	/^function [weights,means,sigmas] = mcmcParamToRealParam(theta,numberOfGaussians,parametersDimension)$/;"	f
+twoModeSurrogate	twoModeSurrogate.m	/^function z = twoModeSurrogate(X)$/;"	f
+twoModeSurrogate	twoModeSurrogateMultipleEvaluation.m	/^function z = twoModeSurrogate(X)$/;"	f
+twoModeSurrogateGrid	twoModeSurrogateGrid.m	/^function [X Y Z] = twoModeSurrogateGrid(x,y)$/;"	f
